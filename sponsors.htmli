@@ -1,0 +1,112 @@
+[template]
+
+templatefile = wdf.template
+outputdir = ../../operational/wdf-website
+outputext = html
+
+[substitutions]
+
+title = WDF Sponsors
+
+styles =
+    <style type="text/css">
+        table {position:relative; left: +0.25in;}
+        .premier img {height: 0.75in; text-align:center; padding=5;}
+        .venue img {height: 0.65in; text-align:center; padding=5;}
+        .finishline img {height: 0.65in; text-align:center; padding=5;}
+        .music img {height: 0.5in; text-align:center; padding=5;}
+    </style>
+    
+body =
+    <h3>Sponsors</h3>
+    
+    <p>
+    <b>Corporate sponsorships:</b> We need the support of our community...  Various levels of sponsorship are available
+    promoting your company's business.  Please request a Fact Sheet on sponsorship from <a href="mailto:Luanne.houck@gdit.com" target="_blank">Luanne Houck</a>
+    </p>
+    
+    <p>
+    Prize donations such as vendor gift certificates are greatly appreciated as well for random prize drawings!
+    </p>
+    
+    <p>
+    As of June 16:
+    </p>
+    
+    <h4>Premier Tee Shirt Sponsorship</h4>  <!-- $2000 -->
+    
+    <table class=premier>
+        <tr>
+            <td><!-- <img alt="Dr. Elizabeth Liotta, M.D." src="images/tmp.tmp"> --> </td>
+            <td>Dr. Elizabeth Liotta, M.D., Dermatologist</td>
+        <tr>
+    </table>
+        
+    <h4>Venue Sponsorship</h4>  <!-- $750 -->
+
+    <!--
+    <table class=venue>
+    </table>
+    -->
+    
+    <h4>Finish Line Sponsorship</h4>  <!-- $500 -->
+
+    <table class=finishline>
+        <tr>
+            <td><!-- <img alt="CORP OHS" src="images/tmp.tmp"> --> </td>
+            <td>CORP OHS</td>
+        <tr>
+    </table>
+    
+    <h4>Music Sponsorship</h4>  <!-- $400 -->
+
+    <!--
+    <table class=waterstop>
+    </table>
+    -->
+    
+    <h4>Awards Sponsorship</h4> <!-- no logo -->  <!-- $250 -->
+
+    <ul>
+        <li>Modern Dentistry</li>
+    </ul>
+    
+    <h4>Food Table Sponsorship</h4> <!-- no logo -->  <!-- $200 -->
+
+    <!--
+    <ul>
+    </ul>
+    -->
+    
+    <h4>Water Stop Sponsorship</h4> <!-- no logo -->  <!-- $150 -->
+
+    <ul>
+        <li>Sue Collins, ReMax Results</li>
+        <li>McLaughlin Family Chiropractic</li>
+    </ul>
+    
+    <h4>Mile Marker Sponsorship</h4> <!-- no logo -->  <!-- $100 -->
+
+    <ul>
+        <li>OBA Bank</li>
+        <li>Riverside Liquors</li>
+    </ul>
+    
+    <h4>General Sponsorship</h4>  <!-- no logo -->  <!-- $50 -->
+    
+    <ul>
+        <li>AJ Photography</li>
+        <li>Drs. Bloom and Reddy</li>
+    </ul>
+
+    <h4>Other Sponsors</h4>  <!-- no logo -->
+    
+    <ul>
+        <li>In-Fit Studio </li>
+    </ul>
+
+    <p>
+    Sponsorships are still open. Let's make this year's WDF better than ever. All proceeds are going to
+    the Women's Giving Circle, local non-profit helping women and children in Frederick.
+    </p>
+    

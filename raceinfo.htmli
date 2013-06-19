@@ -1,0 +1,129 @@
+[template]
+
+templatefile = wdf.template
+outputdir = ../../operational/wdf-website
+outputext = html
+
+[substitutions]
+
+title = Frederick WDF Race Info
+
+styles =
+    <style type="text/css">
+        <!--
+        table {position:relative; left: +0.25in;}
+        
+        .center
+        { 
+        }
+        
+        .center td
+        { 
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        }
+        -->
+    </style>
+    
+body =
+    <h3>Course</h3>
+    
+    Scenic two-loop 5K course on FCC's college campus.
+    
+    <h3>Start/Finish</h3>
+    
+    <p>
+    Frederick Community College, 7932 Opossumtown Pike, Frederick, MD 21702
+    </p>
+
+    <p>
+    Turn left at the 2nd entrance to FCC - proceed to the Field House.
+    </p>
+    
+    <h3>Packet Pickup/Late Registration:</h3>
+    
+    <p>
+    Friday:  3-6pm packet pickup at <b>If The Shoe Fits</b>, 1170 W. Patrick St
+    </p>
+    
+    <p>
+    Race-day:  7:00 am in FCC Field House (race-day registration closes at 7:45)
+    </p>
+
+    <h3>Race Fees</h3>
+
+    <div class="center">
+        <table border="1">
+            <tr>
+                <td></td>
+                <td><b>Student<br>(under 18)</b></td>
+                <td><b>Adult</b></td>
+            </tr>
+            <tr>
+                <td>thru June 30<sup>th</sup></td>
+                <td>$15</td>
+                <td>$20</td>
+            </tr>
+            <tr>
+                <td>July 1 - August 2<sup>nd</sup></td>
+                <td>$20</td>
+                <td>$25</td>
+            </tr>
+            <tr>
+                <td>Race Day</td>
+                <td>$25</td>
+                <td>$30</td>
+            </tr>
+        </table>
+    </div>
+    
+    <h3>Teams</h3>
+    
+    <p>
+    Sign up as an individual or as part of a team.
+    </p>
+    
+    <p>
+    Teams may be registered as:
+    </p>
+    
+    <ul>
+        <li>mother-daughter</li>
+        <li>sister-sister</li>
+        <li>aunt-niece</li>
+        <li>grandmother/granddaughter</li>
+        <li>corporate</li>
+    </ul>
+    
+    <h3>T-Shirts</h3>
+    
+    <p>
+    Commemorative technical shirts to all pre-registrants.  No guarantee of shirts for race-day registrants.  <i>Exchanges after the race,  if shirts available</i>
+    </p>
+    
+    <h3>Awards Ceremony and Celebration</h3>
+    
+    <p>
+    Awards to:
+    </p>
+    
+    <ul>
+        <li>top three overall</li>
+        <li>top master</li>
+        <li>top three in each age group (under 14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-80, and 81+)</li>
+        <li>top in each team category</li>
+    </ul>
+    
+    <p>
+    No duplication of prizes.
+    </p>
+
+    <p>
+    Random prizes galore!
+    </p>
+
+    <p>
+    Post-race refreshments provided.
+    </p>
+

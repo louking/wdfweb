@@ -1,0 +1,56 @@
+[template]
+
+templatefile = wdf.template
+outputdir = ../../operational/wdf-website
+outputext = html
+
+[substitutions]
+
+title = Frederick Women's Distance Festival
+
+body =
+    <h2>Frederick Women's Distance Festival 5k Run/Walk</h2?>
+    
+    <h3>Saturday, August 10, 2013 - 8:00am</h3>
+    
+    <p>
+    The Frederick Steeplechasers
+    Running club is sponsoring this 5k (3.1 mile) race as part of the 24<sup>th</sup>
+    annual Women's Distance Festival Grand Prix Series.  The objective of the WDF
+    is to promote the health and wellness of women of all ages and abilities.
+    </p>
+    
+    <p>
+    Proceeds benefit the Women's
+    Giving Circle of Frederick County, a local organization providing grants to
+    area non-profit organizations assisting women and children in need. 
+    </p>
+    
+    <table>
+        <tr>
+            <td><img height=200 src="images/383798_3726937971865_2091385109_n.jpg" align=left hspace=12></td>
+            <td><img height=200 src="images/388087_3727100495928_1476192436_n.jpg" align=left hspace=12></td>
+            <td><img height=200 src="images/386858_3727143336999_1125449620_n.jpg" align=left hspace=12></td>
+        </tr>
+    </table>
+    
+    <p><b><i>
+    <span style='font-size:22.0pt;color:#0070C0'>Who says women can't run the world?</span>
+    </i></b></p>
+    
+    <h3>About</h3>
+    <div style="position: relative; left: +0.4in;">
+        <!-- <p style="text-indent: +0.4in;"> -->
+        <p>
+        more about <a href="http://www.steeplechasers.org" target="_blank">Frederick Steeplechaser Running Club</a>
+        </p>
+        <p>
+        more about <a href="http://www.womensgivingcircleoffred.org/" target="_blank">The Women's Giving Circle of Frederick</a>
+        </p>
+        <a href="http://facebook.com/FrederickWDF" target="_blank">
+            <img src="images/facebook.jpg"/>
+        </a>
+
+    </div>
+    
+

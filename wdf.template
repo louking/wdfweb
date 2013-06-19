@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html template="true"><head>
+    <link type="text/css" rel="stylesheet" href="stylesheets/main.css">
+    {{{styles}}}
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <title>{{{title}}}</title>
+</head>
+<body>
+<div style="text-align: center; float: top;">
+    <img style="height: 200px;" alt="Frederick Women's Distance Festival" src="images/banner.jpg"><br>
+</div>
+
+<ul id="navigation">	
+    <li><a href="index.html">Home</a></li>
+    <li><a href="http://www.active.com/running/frederick-md/womens-distance-festival-5k-run-walk-frederick-2013" target="_blank">Register</a></li>
+    <li><a href="raceinfo.html">Race Info</a></li>
+    <li>
+        <a>Results</a>
+        <ul>
+            <li><a href="http://www.steeplechasers.org/PDF/WDF5Kresults12.pdf" target="_blank">2012</a></li>
+            <li><a href="http://www.steeplechasers.org/PDF/WDF5Kresults11.pdf" target="_blank">2011</a></li>
+            <li><a href="http://www.steeplechasers.org/PDF/WDF5Kresults10.pdf" target="_blank">2010</a></li>
+            <li><a href="http://www.steeplechasers.org/PDF/WDF09results.pdf" target="_blank">2009</a></li>
+            <li><a href="http://www.steeplechasers.org/PDF/WDF08results.pdf" target="_blank">2008</a></li>
+        </ul>
+    </li>
+    <li><a href="sponsors.html">Sponsors</a></li>
+    <li>
+        <a>Contact Us</a>
+        <ul>
+            <li><a href="mailto:pwaxter@comcast.net" target="_blank">Peggy Waxter</a></li> 
+        </ul>
+    </li>
+</ul>
+
+<div class=body>
+<br>
+{{{body}}}
+</div>
+
+</body></html>
