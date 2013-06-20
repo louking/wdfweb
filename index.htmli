@@ -35,21 +35,29 @@ body =
     </table>
     
     <p><b><i>
-    <span style='font-size:22.0pt;color:#0070C0'>Who says women can't run the world?</span>
+    <span style='font-size:22.0pt;color:#0070C0'>Who said women can't run the world?</span>
     </i></b></p>
     
     <h3>About</h3>
     <div style="position: relative; left: +0.4in;">
         <!-- <p style="text-indent: +0.4in;"> -->
-        <p>
-        more about <a href="http://www.steeplechasers.org" target="_blank">Frederick Steeplechaser Running Club</a>
-        </p>
-        <p>
-        more about <a href="http://www.womensgivingcircleoffred.org/" target="_blank">The Women's Giving Circle of Frederick</a>
-        </p>
+        <table>
+            <tr>
+                <td>more about</td>
+                <td><a href="http://www.steeplechasers.org" target="_blank">Frederick Steeplechaser Running Club</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>more about</td>
+                <td><a href="http://www.womensgivingcircleoffred.org/" target="_blank">The Women's Giving Circle of Frederick</a></td>
+                <td><img height=100 src="images/wgclogo.jpg"></td>
+            </tr>
+        </table>
+        <!--
         <a href="http://facebook.com/FrederickWDF" target="_blank">
             <img src="images/facebook.jpg"/>
         </a>
+        -->
 
     </div>
     

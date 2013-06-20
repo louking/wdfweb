@@ -22,7 +22,7 @@ body =
     
     <p>
     <b>Corporate sponsorships:</b> We need the support of our community...  Various levels of sponsorship are available
-    promoting your company's business.  Please request a Fact Sheet on sponsorship from <a href="mailto:Luanne.houck@gdit.com" target="_blank">Luanne Houck</a>
+    promoting your company's business.  Please request a Fact Sheet on sponsorship from <a href="mailto:Luanne.houck@gdit.com">Luanne Houck</a>
     </p>
     
     <p>
@@ -37,7 +37,7 @@ body =
     
     <table class=premier>
         <tr>
-            <td><!-- <img alt="Dr. Elizabeth Liotta, M.D." src="images/tmp.tmp"> --> </td>
+            <td><img alt="Dr. Elizabeth Liotta, M.D." src="images/LiottaDermBanner2.JPG"> </td>
             <td>Dr. Elizabeth Liotta, M.D., Dermatologist</td>
         <tr>
     </table>
