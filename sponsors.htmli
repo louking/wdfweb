@@ -53,7 +53,7 @@ body =
 
     <table class=finishline>
         <tr>
-            <td><!-- <img alt="CORP OHS" src="images/tmp.tmp"> --> </td>
+            <td><img alt="CORP OHS" src="images/corpohslogo.gif"></td>
             <td>CORP OHS</td>
         <tr>
     </table>
@@ -73,10 +73,9 @@ body =
     
     <h4>Food Table Sponsorship</h4> <!-- no logo -->  <!-- $200 -->
 
-    <!--
     <ul>
+        <li>Life Smiles Dental Enhancement Center</li>
     </ul>
-    -->
     
     <h4>Water Stop Sponsorship</h4> <!-- no logo -->  <!-- $150 -->
 

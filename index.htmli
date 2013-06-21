@@ -45,12 +45,12 @@ body =
             <tr>
                 <td>more about</td>
                 <td><a href="http://www.steeplechasers.org" target="_blank">Frederick Steeplechaser Running Club</a></td>
-                <td></td>
+                <td align="center"><img height=100 src="images/fsrc-logo.jpg"></td>
             </tr>
             <tr>
                 <td>more about</td>
                 <td><a href="http://www.womensgivingcircleoffred.org/" target="_blank">The Women's Giving Circle of Frederick</a></td>
-                <td><img height=100 src="images/wgclogo.jpg"></td>
+                <td align="center"><img height=100 src="images/wgclogo.jpg"></td>
             </tr>
         </table>
         <!--
